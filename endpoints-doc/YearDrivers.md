@@ -3,6 +3,7 @@
 **Endpoint**: `GET /drivers/list/{year}`  
 **Description**:  
 Returns the list of all drivers who participated in a given season, along with their teams, nationalities, and number of races.  
+**Product**: STARTER
 **Data source**: [Ergast Motor Racing Data](https://ergast.com/mrd/)
 
 ---
