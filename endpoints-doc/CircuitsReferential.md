@@ -3,6 +3,7 @@
 **Endpoint**: `GET /basicdata/circuitsReferential`  
 **Description**:  
 Returns a paginated referential list of all F1 circuits, including circuit reference, name, country, and associated metadata.  
+**Product**: STARTER
 **Data source**: [Ergast Motor Racing Data](https://ergast.com/mrd/)
 
 ---
