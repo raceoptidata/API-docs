@@ -3,6 +3,7 @@
 **Endpoint**: `GET /results/driversChampionship/{year}`  
 **Description**:  
 Returns the drivers' championship standings for a given Formula 1 season, including driver details, team, nationality, points, wins, podiums, and poles.  
+**Product**: STARTER
 **Data source**: [Ergast Motor Racing Data](https://ergast.com/mrd/)
 
 ---
