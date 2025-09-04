@@ -2,7 +2,8 @@
 
 **Endpoint**: `GET /drivers/perfs/{driver}/{circuitRef}`  
 **Description**:  
-Returns detailed statistics for a specific driver at a specific circuit, including race results, points, podiums, and qualifying positions across seasons.  
+Returns detailed statistics for a specific driver at a specific circuit, including race results, points, podiums, and qualifying positions across seasons. 
+**Product**: PRO
 **Data source**: [Ergast Motor Racing Data](https://ergast.com/mrd/)
 
 ---
