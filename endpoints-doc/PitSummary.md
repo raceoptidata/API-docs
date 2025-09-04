@@ -3,6 +3,7 @@
 **Endpoint**: `GET /pitstats/pit-summary/{year}/{round}`  
 **Description**:  
 Returns a detailed summary of all pit stops for a given race or sprint session, including aggregated counts per driver and detailed stop information.  
+**Product**: PRO
 **Data source**: [FastF1](https://theoehrly.github.io/Fast-F1/)
 
 ---
