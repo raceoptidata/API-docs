@@ -3,6 +3,7 @@
 **Endpoint**: `GET /racestats/tyre-strategy/{year}/{round}/{driver}`  
 **Description**:  
 Returns detailed tyre strategy information for a specific driver during a race or sprint session, including stint breakdowns, compounds used, lap ranges, and performance metrics.  
+**Product**: PRO
 **Data source**: [FastF1](https://theoehrly.github.io/Fast-F1/)
 
 ---
