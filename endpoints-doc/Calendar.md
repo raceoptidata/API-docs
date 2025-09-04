@@ -3,6 +3,7 @@
 **Endpoint**: `GET /season/calendar/{year}`  
 **Description**:  
 Returns the full Formula 1 season calendar for the specified year, including race dates, circuit information, and pole/winner data.  
+**Product**: STARTER
 **Data source**: [Ergast Motor Racing Data](https://ergast.com/mrd/)
 
 ---
