@@ -3,6 +3,7 @@
 **Endpoint**: `GET /results/teamsChampionship/{year}`  
 **Description**:  
 Returns the constructor standings for a given Formula One season, including points, wins, podiums, poles, and sprint results.  
+**Product**: STARTER
 **Data source**: [Ergast Motor Racing Data](https://ergast.com/mrd/)
 
 ---
