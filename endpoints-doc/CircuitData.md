@@ -3,6 +3,7 @@
 **Endpoint**: `GET /circuits/{circuitRef}`  
 **Description**:  
 Returns detailed information about a specific circuit, including geographic data, total races, and historical first and last winners.  
+**Product**: STARTER
 **Data source**: [Ergast Motor Racing Data](https://ergast.com/mrd/)
 
 ---
