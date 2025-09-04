@@ -3,6 +3,7 @@
 **Endpoint**: `GET /drivers/{driver}`  
 **Description**:  
 Returns a summary of a driver's career statistics, including races, wins, points, podiums, and team history.  
+**Product**: STARTER
 **Data source**: [Ergast Motor Racing Data](https://ergast.com/mrd/)
 
 ---
