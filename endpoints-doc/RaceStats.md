@@ -3,6 +3,7 @@
 **Endpoint**: `GET /racestats/{year}/{round}/{session}/{driver}`  
 **Description**:  
 Returns detailed statistics for a specific driver during a race or sprint session, including stint analysis, average lap times, total race time, and pit stop count.  
+**Product**: PRO
 **Data source**: [FastF1](https://theoehrly.github.io/Fast-F1/)
 
 ---
