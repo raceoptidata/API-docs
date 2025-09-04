@@ -2,7 +2,8 @@
 
 **Endpoint**: `GET /results/qualif/{year}/{round}`  
 **Description**:  
-Returns the official classification of the qualifying session for a given race, including sector times across Q1, Q2, and Q3 where available.  
+Returns the official classification of the qualifying session for a given race, including sector times across Q1, Q2, and Q3 where available. 
+**Product**: STARTER
 **Data source**: [Ergast Motor Racing Data](https://ergast.com/mrd/)
 
 ---
