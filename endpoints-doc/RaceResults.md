@@ -3,6 +3,7 @@
 **Endpoint**: `GET /results/race/{year}/{round}`  
 **Description**:  
 Returns the final classification of a race for a given season and round, including driver positions, race times, points, and status.  
+**Product**: STARTER
 **Data source**: [Ergast Motor Racing Data](https://ergast.com/mrd/)
 
 ---
