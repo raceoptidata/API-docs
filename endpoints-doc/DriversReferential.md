@@ -3,6 +3,7 @@
 **Endpoint**: `GET /basicdata/driversReferential`  
 **Description**:  
 Returns a paginated referential list of all drivers, with their reference codes, nationalities, and associated metadata.  
+**Product**: STARTER
 **Data source**: [Ergast Motor Racing Data](https://ergast.com/mrd/)
 
 ---
