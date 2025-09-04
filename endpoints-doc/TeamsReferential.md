@@ -2,7 +2,8 @@
 
 **Endpoint**: `GET /basicdata/teamsReferential`  
 **Description**:  
-Returns a paginated referential list of all constructors (teams), with their references, names, nationalities, and metadata.  
+Returns a paginated referential list of all constructors (teams), with their references, names, nationalities, and metadata. 
+**Product**: STARTER
 **Data source**: [Ergast Motor Racing Data](https://ergast.com/mrd/)
 
 ---
