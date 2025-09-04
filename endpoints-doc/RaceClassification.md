@@ -3,6 +3,7 @@
 **Endpoint**: `GET /racestats/race-classification/{year}/{round}/{lap}`  
 **Description**:  
 Returns the race classification at a specific lap for a given race or sprint session, including positions, gaps, and cumulative times.  
+**Product**: PRO
 **Data source**: [FastF1](https://theoehrly.github.io/Fast-F1/)
 
 ---
