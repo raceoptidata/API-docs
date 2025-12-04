@@ -1,6 +1,6 @@
 ## Get Driver Race Statistics
 
-**Endpoint**: `GET /racestats/{year}/{round}/{session}/{driver}`  
+**Endpoint**: `GET https://api.raceoptidata.com/racestats/{year}/{round}/{session}/{driver}`  
 **Description**:  
 Returns detailed statistics for a specific driver during a race or sprint session, including stint analysis, average lap times, total race time, and pit stop count.  
 **Product**: PRO
