@@ -1,6 +1,6 @@
 ## Get Driver Card
 
-**Endpoint**: `GET /drivers/{driver}`  
+**Endpoint**: `GET https://api.raceoptidata.com/drivers/{driver}`  
 **Description**:  
 Returns a summary of a driver's career statistics, including races, wins, points, podiums, and team history.  
 **Product**: STARTER
