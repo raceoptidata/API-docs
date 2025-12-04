@@ -1,6 +1,6 @@
 ## Get Team Performances at Circuit
 
-**Endpoint**: `GET /teams/perfs/{team}/{circuitRef}`  
+**Endpoint**: `GET https://api.raceoptidata.com/teams/perfs/{team}/{circuitRef}`  
 **Description**:  
 Returns a constructor’s historical performance at a specific circuit, including aggregated totals and per-session results (race and sprint).  
 **Product**: PRO
