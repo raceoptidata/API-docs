@@ -1,6 +1,6 @@
 ## Get Circuit Data
 
-**Endpoint**: `GET /circuits/{circuitRef}`  
+**Endpoint**: `GET https://api.raceoptidata.com/circuits/{circuitRef}`  
 **Description**:  
 Returns detailed information about a specific circuit, including geographic data, total races, and historical first and last winners.  
 **Product**: STARTER
