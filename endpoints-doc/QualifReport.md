@@ -1,6 +1,6 @@
 ## Get Qualification Statistics
 
-**Endpoint**: `GET /qualifstats/{year}/{round}`  
+**Endpoint**: `GET https://api.raceoptidata.com/qualifstats/{year}/{round}`  
 **Description**:  
 Returns a detailed report of qualifying sessions for a given race, including lap times, classifications per session (Q1, Q2, Q3), tire usage, and weather conditions.  
 **Product**: PRO
