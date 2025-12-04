@@ -1,6 +1,6 @@
 ## Get Season Calendar
 
-**Endpoint**: `GET /season/calendar/{year}`  
+**Endpoint**: `GET https://api.raceoptidata.com/season/calendar/{year}`  
 **Description**:  
 Returns the full Formula 1 season calendar for the specified year, including race dates, circuit information, and pole/winner data.  
 **Product**: STARTER
