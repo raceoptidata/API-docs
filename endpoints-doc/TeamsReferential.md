@@ -1,6 +1,6 @@
 ## Get Teams Referential
 
-**Endpoint**: `GET /basicdata/teamsReferential`  
+**Endpoint**: `GET https://api.raceoptidata.com/basicdata/teamsReferential`  
 **Description**:  
 Returns a paginated referential list of all constructors (teams), with their references, names, nationalities, and metadata. 
 **Product**: STARTER
