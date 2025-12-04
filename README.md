@@ -12,7 +12,7 @@ This repository provides extended documentation for the **RaceOptiData API**, in
 ## 🔗 Quick Links
 
 - [Swagger UI Documentation](https://www.raceoptidata.com/swagger)  
-- [Live API Endpoint (via Azure APIM)](https://optidataiaapim.azure-api.net)
+- [Live API Endpoint](https://www.raceoptidata.com/api)
 
 ## About the API
 
@@ -23,3 +23,4 @@ RaceOptiData aggregates data from two major sources:
 
 
 Ideal for developers, analysts, and F1 enthusiasts who want to build apps, dashboards, and data models.
+
