@@ -1,6 +1,6 @@
 ## Get Race Results
 
-**Endpoint**: `GET /results/race/{year}/{round}`  
+**Endpoint**: `GET https://api.raceoptidata.com/results/race/{year}/{round}`  
 **Description**:  
 Returns the final classification of a race for a given season and round, including driver positions, race times, points, and status.  
 **Product**: STARTER
