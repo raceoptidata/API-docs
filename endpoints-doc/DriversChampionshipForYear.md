@@ -1,6 +1,6 @@
 # Get Drivers Championship Standings
 
-**Endpoint**: `GET /results/driversChampionship/{year}`  
+**Endpoint**: `GET https://api.raceoptidata.com/results/driversChampionship/{year}`  
 **Description**:  
 Returns the drivers' championship standings for a given Formula 1 season, including driver details, team, nationality, points, wins, podiums, and poles.  
 **Product**: STARTER
