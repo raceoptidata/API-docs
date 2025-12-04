@@ -1,6 +1,6 @@
 ## Get Circuits Referential
 
-**Endpoint**: `GET /basicdata/circuitsReferential`  
+**Endpoint**: `GET https://api.raceoptidata.com/basicdata/circuitsReferential`  
 **Description**:  
 Returns a paginated referential list of all F1 circuits, including circuit reference, name, country, and associated metadata.  
 **Product**: STARTER
