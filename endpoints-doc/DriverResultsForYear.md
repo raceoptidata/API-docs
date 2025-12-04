@@ -1,6 +1,6 @@
 ## Get Driver Season Results
 
-**Endpoint**: `GET /results/{year}/{driver}`  
+**Endpoint**: `GET https://api.raceoptidata.com/results/{year}/{driver}`  
 **Description**:  
 Returns the complete race results of a given driver for a season, including race positions, points scored, start positions, and status.  
 **Product**: STARTER
