@@ -1,6 +1,6 @@
 # Get Qualifying Results
 
-**Endpoint**: `GET /results/qualif/{year}/{round}`  
+**Endpoint**: `GET https://api.raceoptidata.com/results/qualif/{year}/{round}`  
 **Description**:  
 Returns the official classification of the qualifying session for a given race, including sector times across Q1, Q2, and Q3 where available. 
 **Product**: STARTER
