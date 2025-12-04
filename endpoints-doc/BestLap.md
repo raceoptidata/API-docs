@@ -1,6 +1,6 @@
 ## Get Race Best Lap
 
-**Endpoint**: `GET /racestats/best-lap/{year}/{round}`  
+**Endpoint**: `GET https://api.raceoptidata.com/racestats/best-lap/{year}/{round}`  
 **Description**:  
 Returns the best lap of a race or sprint session, including the driver, lap number, stint, compound used, lap time, and associated weather conditions.  
 **Product**: STARTER
