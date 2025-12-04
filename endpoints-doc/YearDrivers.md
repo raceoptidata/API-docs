@@ -1,6 +1,6 @@
 ## Get Drivers List by Season
 
-**Endpoint**: `GET /drivers/list/{year}`  
+**Endpoint**: `GET https://api.raceoptidata.com/drivers/list/{year}`  
 **Description**:  
 Returns the list of all drivers who participated in a given season, along with their teams, nationalities, and number of races.  
 **Product**: STARTER
