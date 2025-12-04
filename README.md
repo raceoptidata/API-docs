@@ -9,10 +9,9 @@ This repository provides extended documentation for the **RaceOptiData API**, in
 - Example requests and responses
 - Usage guidelines and best practices
 
-## 🔗 Quick Links
+## 🔗 Quick Link
 
 - [Swagger UI Documentation](https://www.raceoptidata.com/swagger)  
-- [Live API Endpoint](https://www.raceoptidata.com/api)
 
 ## About the API
 
@@ -23,4 +22,5 @@ RaceOptiData aggregates data from two major sources:
 
 
 Ideal for developers, analysts, and F1 enthusiasts who want to build apps, dashboards, and data models.
+
 
