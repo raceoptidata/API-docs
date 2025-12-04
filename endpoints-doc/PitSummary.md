@@ -1,6 +1,6 @@
 ## Get Pit Stops Summary
 
-**Endpoint**: `GET /pitstats/pit-summary/{year}/{round}`  
+**Endpoint**: `GET https://api.raceoptidata.com/pitstats/pit-summary/{year}/{round}`  
 **Description**:  
 Returns a detailed summary of all pit stops for a given race or sprint session, including aggregated counts per driver and detailed stop information.  
 **Product**: PRO
