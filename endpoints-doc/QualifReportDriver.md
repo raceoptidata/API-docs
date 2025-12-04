@@ -1,6 +1,6 @@
 ## Get Qualification Statistics for Driver
 
-**Endpoint**: `GET /qualifstats/{year}/{round}/{driver}`  
+**Endpoint**: `GET https://api.raceoptidata.com/qualifstats/{year}/{round}/{driver}`  
 **Description**:  
 Returns a detailed qualifying report for a specific driver, including lap times, best sectors, tire usage, weather conditions, and per-session breakdown (Q1, Q2, Q3).  
 **Product**: PRO
