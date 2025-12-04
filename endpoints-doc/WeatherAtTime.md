@@ -1,6 +1,6 @@
 ## Get Session Weather at Time
 
-**Endpoint**: `GET /weather/{year}/{round}/{session}/{time}`  
+**Endpoint**: `GET https://api.raceoptidata.com/weather/{year}/{round}/{session}/{time}`  
 **Description**:  
 Returns the weather snapshot for a given race event at a specific minute offset from the start of the session. The response includes air/track temperatures, humidity, pressure, rainfall flag, wind direction and speed.  
 **Product**: PRO
