@@ -1,6 +1,6 @@
 ## Get Race Summary
 
-**Endpoint**: `GET /racestats/race-summary/{year}/{round}`  
+**Endpoint**: `GET https://api.raceoptidata.com/racestats/race-summary/{year}/{round}`  
 **Description**:  
 Returns the final race or sprint summary, including full classification, fastest lap details, weather summary, and total laps completed.  
 **Product**: PRO
