@@ -1,6 +1,6 @@
 ## Get Drivers Referential
 
-**Endpoint**: `GET /basicdata/driversReferential`  
+**Endpoint**: `GET https://api.raceoptidata.com/basicdata/driversReferential`  
 **Description**:  
 Returns a paginated referential list of all drivers, with their reference codes, nationalities, and associated metadata.  
 **Product**: STARTER
